@@ -1,3 +1,7 @@
+body {
+	background-image: url("../images/crystal-background.jpg");
+}
+
 .container {
 	max-width: 980px
 }
