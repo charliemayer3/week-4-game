@@ -1,0 +1,92 @@
+.container {
+	max-width: 980px
+}
+
+.clearfix:after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+
+.headline {
+	background-color: orange;
+	color: white;
+	line-height: 50px;
+	font-size: 36px;
+	padding: 20px;
+	margin: 10px;
+	width: 30%;
+}
+
+#instructions {
+	background-color: pink;
+	color: green;
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.middleSection {
+	max-width: 500px;
+}
+
+.targetScoreText {
+	background-color: lightgreen;
+	color: purple;
+	font-size: 20px;
+	height: 40px;
+	width: 275px;
+	margin:10px;
+	float: left;
+}
+
+.targetScore {
+	background-color: lightgreen;
+	color: purple;
+	font-size: 46px;
+	height: 75px;
+	width: 275px;
+	margin:10px;
+	float: left;
+}
+
+.winsAndLosses {
+	/*margin: 10px;*/
+	background-color: skyblue;
+	color: blue;
+	padding: 20px;
+	line-height: 35px;
+	float: right;
+}
+
+#crystals {
+	float: left;
+}
+
+.crystalImage {
+	height: 200px;
+	width: 200px;
+	margin:10px;
+	padding: 10px;
+}
+
+.yourScore {
+	background-color: aqua;
+	color: white;
+	font-size: 20px;
+	height: 40px;
+	width: 300px;
+	margin:10px;
+	float:left;
+}
+
+.totalScore {
+	background-color: aqua;
+	color: white;
+	font-size: 46px;
+	height: 100px;
+	width: 300px;
+	margin:10px;
+	float:left;
+}
+
